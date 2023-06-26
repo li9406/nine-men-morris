@@ -2,7 +2,7 @@
 This project aims to develop an object-oriented design and fully functional implementation of a Nine Men's Morris game.
 
 ## Contributors
-* [Ong Li Ching](https://github.com/li9406) (long0012@student.monash.edu)
+* [Ong Li Ching](https://github.com/li9406)
 * Muhammad Abdullah Akif
 * Subhan Saadat Khan
 * How Yu Chern
