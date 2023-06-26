@@ -1,7 +1,7 @@
 # Nine Men Morris using JFrame
 This project aims to develop an object-oriented design and fully functional implementation of a Nine Men's Morris game.
 
-## Team Members
+## Contributors
 * [Ong Li Ching](https://github.com/li9406)
 * Muhammad Abdullah Akif
 * Subhan Saadat Khan
