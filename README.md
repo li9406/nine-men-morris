@@ -5,3 +5,5 @@
 * Muhammad Abdullah Akif
 * Subhan Saadat Khan
 * How Yu Chern
+
+## How To Play
