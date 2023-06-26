@@ -1,5 +1,11 @@
 # FIT3077_project
 
+## Team Members
+* Ong Li Ching
+* Muhammad Abdullah Akif
+* Subhan Saadat Khan
+* How Yu Chern
+
 Technical Documentation:
 
 Java Pre-requisites:
