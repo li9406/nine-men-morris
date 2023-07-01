@@ -4,7 +4,7 @@ This project aims to develop an object-oriented design and fully functional impl
 ## Contributors
 * [Ong Li Ching](https://github.com/li9406)
 * Muhammad Abdullah Akif
-* Subhan Saadat Khan
+* [Subhan Saadat Khan](https://github.com/SubhanSaadatKhan)
 * How Yu Chern
 
 ## Game Description
